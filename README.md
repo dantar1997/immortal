@@ -1,3 +1,1 @@
-# immortal
-My first repository on GitHub.
-I love?
+Good bye
